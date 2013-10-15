@@ -1,4 +1,6 @@
 gc-Git-Repo
 ===========
 
-ISSM Git Repo
+ISSW Git Repo
+
+Change for GitMac
